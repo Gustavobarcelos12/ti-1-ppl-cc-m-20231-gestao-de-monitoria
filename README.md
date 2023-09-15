@@ -5,7 +5,7 @@ Criaremos um sistema de gestão de monitoria que irá conectar alunos com dificu
 ## Alunos integrantes da equipe
 
 * Daniel de Oliveira Costa
-* Vinicius Tivu Soares
+* Vinicius Tivo Soares
 * Bernardo
 * Cairo
 * Gabriel
