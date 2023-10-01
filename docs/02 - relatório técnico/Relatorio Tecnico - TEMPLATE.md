@@ -1,6 +1,6 @@
 <<<<<<< HEAD:docs/02 - relatório técnico/Relatorio Tecnico - TEMPLATE.md
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+Gestão de Monitoria 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
